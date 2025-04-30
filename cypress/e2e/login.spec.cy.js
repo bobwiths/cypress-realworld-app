@@ -11,4 +11,9 @@ describe('Login Tests', () => {
         loginPage.loginWithAnyUser(userData.userSuccess.username, userData.userSuccess.password)
         homePage.checkHomePage()
     })
+    it('Login - Fail', () => {
+        loginPage.accessLoginPage()
+        loginPage.loginWithAnyUser(userData.userFail.username, userData.userFail.password)
+        loginPage.checkAccessInvalid()
+      })
 })
