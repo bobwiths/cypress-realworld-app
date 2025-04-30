@@ -74,6 +74,61 @@
       "balance": 49474,
       "createdAt": "2023-12-07T04:39:38.383Z",
       "modifiedAt": "2024-03-07T00:07:36.510Z"
+    },
+    {
+      "id": "TJBrsZYIv",
+      "uuid": "76e43f59-3621-4a32-98ff-9f8fae12df90",
+      "firstName": "dadada",
+      "lastName": "dadada",
+      "username": "dadada",
+      "password": "$2a$10$XyKBFBgIRI.vu4GUVhJPrOGF9lKTibu4jWm1L/BF0OvKv9a451uzC",
+      "balance": 0,
+      "createdAt": "2025-04-30T17:39:45.455Z",
+      "modifiedAt": "2025-04-30T17:39:45.455Z"
+    },
+    {
+      "id": "Udr5XiN-L",
+      "uuid": "15b4d132-b5f8-40cc-a6da-3779dae7f069",
+      "firstName": "John",
+      "lastName": "Doe",
+      "username": "john00",
+      "password": "$2a$10$ONkaKIwkB1bXzHaWHxINsuTr821YCldNQXHy/6rpo0K8lbPJf/bb.",
+      "balance": 0,
+      "createdAt": "2025-04-30T17:57:41.860Z",
+      "modifiedAt": "2025-04-30T17:57:41.860Z"
+    },
+    {
+      "id": "wWCkv5oHZ",
+      "uuid": "59585c7c-a91a-486c-926f-42b45001d8dd",
+      "firstName": "John",
+      "lastName": "Doe",
+      "username": "john00",
+      "password": "$2a$10$QDD0UDjpnaTiQSeFQXXL1eTrWq5KzSC/TUAXD5Whd/v/Ev/xUHi4q",
+      "balance": 0,
+      "createdAt": "2025-04-30T17:58:14.670Z",
+      "modifiedAt": "2025-04-30T17:58:14.670Z"
+    },
+    {
+      "id": "TFp0j0dwq",
+      "uuid": "02b419cc-8ff8-47c6-a4f9-8516380df70e",
+      "firstName": "John",
+      "lastName": "Doe",
+      "username": "john00",
+      "password": "$2a$10$umLsLMFyCvh0cGaKOZHAsuLIQy6M1VXJPvd.9e1hDy1XlrnLnfdaS",
+      "balance": 0,
+      "createdAt": "2025-04-30T17:58:15.352Z",
+      "modifiedAt": "2025-04-30T17:58:15.352Z"
+    },
+    {
+      "id": "vycv3LWly",
+      "uuid": "bacf71ba-98bd-435e-a59d-a95c48a0f800",
+      "firstName": "John",
+      "lastName": "Doe",
+      "username": "john00",
+      "password": "$2a$10$gQfy83lr8GEYghvCqY696ejVWnB4QouFGWpAR0sqFCl422jo/K/72",
+      "balance": 0,
+      "createdAt": "2025-04-30T17:58:34.465Z",
+      "modifiedAt": "2025-04-30T17:58:34.465Z"
     }
   ],
   "contacts": [

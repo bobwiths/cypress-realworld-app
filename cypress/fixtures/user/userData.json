@@ -6,5 +6,12 @@
     "userFail": {
         "username": "Test",
         "password": "Test"
+    },
+    "newUser": {
+        "firstName": "John",
+        "lastName": "Doe",
+        "username": "john00",
+        "password": "myst3ry",
+        "confirmPassword": "myst3ry"  
     }
 }
