@@ -7,7 +7,8 @@ class CreateAccountPage{
             usernameField: "#username",
             passwordField: "#password",
             confirmPasswordField: "#confirmPassword",
-            signUpButton: "[data-test='signup-submit']"
+            signUpButton: "[data-test='signup-submit']",
+            wrongPasswordAlert: "#confirmPassword-helper-text"
         }
 
         return selectors
@@ -15,18 +16,18 @@ class CreateAccountPage{
 
     createAccountButton() {
         cy.get(this.selectorsList().createAccountButton).click()
-    }
-
-    accessCreateAccountPage() {
         cy.location('pathname').should('equal', '/signup')
     }
-    fillSignUpPage(firstName, lastName, username, password, confirmPassword){
+    fillSignUpPage(firstName, lastName, username, password, confirmPassword) {
         cy.get(this.selectorsList().firstNameField).type(firstName)
         cy.get(this.selectorsList().lastNameField).type(lastName)
         cy.get(this.selectorsList().usernameField).type(username)
         cy.get(this.selectorsList().passwordField).type(password)
         cy.get(this.selectorsList().confirmPasswordField).type(confirmPassword)
-        cy.get(this.selectorsList().signUpButton).click()
+        cy.get(this.selectorsList().signUpButton).click({force: true})
+    }
+    createAccountMessage(){
+        cy.get(this.selectorsList().wrongPasswordAlert)
     }
 }
 

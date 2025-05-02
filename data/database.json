@@ -76,59 +76,103 @@
       "modifiedAt": "2024-03-07T00:07:36.510Z"
     },
     {
-      "id": "TJBrsZYIv",
-      "uuid": "76e43f59-3621-4a32-98ff-9f8fae12df90",
-      "firstName": "dadada",
-      "lastName": "dadada",
-      "username": "dadada",
-      "password": "$2a$10$XyKBFBgIRI.vu4GUVhJPrOGF9lKTibu4jWm1L/BF0OvKv9a451uzC",
-      "balance": 0,
-      "createdAt": "2025-04-30T17:39:45.455Z",
-      "modifiedAt": "2025-04-30T17:39:45.455Z"
-    },
-    {
-      "id": "Udr5XiN-L",
-      "uuid": "15b4d132-b5f8-40cc-a6da-3779dae7f069",
+      "id": "A3UIXybHL",
+      "uuid": "3a764762-fbe4-4ba6-8b1c-fbe5435b3306",
       "firstName": "John",
       "lastName": "Doe",
       "username": "john00",
-      "password": "$2a$10$ONkaKIwkB1bXzHaWHxINsuTr821YCldNQXHy/6rpo0K8lbPJf/bb.",
+      "password": "$2a$10$scpn8NWJR2a2pFAr2/mXV.njY0eHhxpD4UvmBJ9OufNCFkGzOJBWu",
       "balance": 0,
-      "createdAt": "2025-04-30T17:57:41.860Z",
-      "modifiedAt": "2025-04-30T17:57:41.860Z"
+      "createdAt": "2025-05-02T22:17:59.254Z",
+      "modifiedAt": "2025-05-02T22:17:59.254Z"
     },
     {
-      "id": "wWCkv5oHZ",
-      "uuid": "59585c7c-a91a-486c-926f-42b45001d8dd",
+      "id": "ZF0CLBl5a",
+      "uuid": "c04c4862-57a7-4582-af50-ff3cda00e21b",
       "firstName": "John",
       "lastName": "Doe",
       "username": "john00",
-      "password": "$2a$10$QDD0UDjpnaTiQSeFQXXL1eTrWq5KzSC/TUAXD5Whd/v/Ev/xUHi4q",
+      "password": "$2a$10$WSAb6X0gPz5tnK1nu5RNEu0.ZJR49Zcgc.wEClfvusO7zJ0tuH0.y",
       "balance": 0,
-      "createdAt": "2025-04-30T17:58:14.670Z",
-      "modifiedAt": "2025-04-30T17:58:14.670Z"
+      "createdAt": "2025-05-02T22:19:39.765Z",
+      "modifiedAt": "2025-05-02T22:19:39.765Z"
     },
     {
-      "id": "TFp0j0dwq",
-      "uuid": "02b419cc-8ff8-47c6-a4f9-8516380df70e",
+      "id": "IjmOzUve9",
+      "uuid": "65721272-d9f0-45a4-b053-0ff27ed251e9",
       "firstName": "John",
       "lastName": "Doe",
       "username": "john00",
-      "password": "$2a$10$umLsLMFyCvh0cGaKOZHAsuLIQy6M1VXJPvd.9e1hDy1XlrnLnfdaS",
+      "password": "$2a$10$N6xpYR6nxLeKsb5g5GFNZ.uyv1bogtFq0A.SqOMeyiaeceh.n7ra6",
       "balance": 0,
-      "createdAt": "2025-04-30T17:58:15.352Z",
-      "modifiedAt": "2025-04-30T17:58:15.352Z"
+      "createdAt": "2025-05-02T22:20:19.367Z",
+      "modifiedAt": "2025-05-02T22:20:19.367Z"
     },
     {
-      "id": "vycv3LWly",
-      "uuid": "bacf71ba-98bd-435e-a59d-a95c48a0f800",
+      "id": "uuxYwj2EZ",
+      "uuid": "68149992-96b1-4f6d-87e6-78d69de18d09",
       "firstName": "John",
       "lastName": "Doe",
       "username": "john00",
-      "password": "$2a$10$gQfy83lr8GEYghvCqY696ejVWnB4QouFGWpAR0sqFCl422jo/K/72",
+      "password": "$2a$10$JdHjrM5sYl6w1aXE/GqOM.uGuuwXSr4Huo8V09hs5wWS7NMchi9yW",
       "balance": 0,
-      "createdAt": "2025-04-30T17:58:34.465Z",
-      "modifiedAt": "2025-04-30T17:58:34.465Z"
+      "createdAt": "2025-05-02T22:20:20.104Z",
+      "modifiedAt": "2025-05-02T22:20:20.104Z"
+    },
+    {
+      "id": "Q2jkFy2SW",
+      "uuid": "2632e1d7-9b23-431c-9f19-46033d163228",
+      "firstName": "John",
+      "lastName": "Doe",
+      "username": "john00",
+      "password": "$2a$10$rYQX1qjpRWnZZl5fjOiBVuBgud/YOdHeHW1wtRVi5kUWXELFcgZiK",
+      "balance": 0,
+      "createdAt": "2025-05-02T22:21:01.444Z",
+      "modifiedAt": "2025-05-02T22:21:01.444Z"
+    },
+    {
+      "id": "FuqaZ__45",
+      "uuid": "e6730e5e-7f77-4ac8-83f8-cd6ad6046aa0",
+      "firstName": "John",
+      "lastName": "Doe",
+      "username": "john00",
+      "password": "$2a$10$0t5dIYet23GlT4wN7ZrHAOGz6I3hmskyet.LjuCpXdqE/XcHCBweq",
+      "balance": 0,
+      "createdAt": "2025-05-02T22:21:45.596Z",
+      "modifiedAt": "2025-05-02T22:21:45.596Z"
+    },
+    {
+      "id": "pLpoy15ah",
+      "uuid": "e1ad9c63-ab46-47ad-98f4-c9716f2f0415",
+      "firstName": "John",
+      "lastName": "Doe",
+      "username": "john00",
+      "password": "$2a$10$BEkilrRFk/30.uUipP0.0en.0Jew/Cw0Qy6SLAM.CWKuVG4wFrV9G",
+      "balance": 0,
+      "createdAt": "2025-05-02T22:22:41.028Z",
+      "modifiedAt": "2025-05-02T22:22:41.028Z"
+    },
+    {
+      "id": "ptwLAqxSC",
+      "uuid": "69d17f98-dadc-4c81-b1fa-fa139d2dfc85",
+      "firstName": "John",
+      "lastName": "Doe",
+      "username": "john00",
+      "password": "$2a$10$mczpclU0q5J3rsLnT5R.xuwenbL9kVlzu/jxUKu1hIbISTUf05nhq",
+      "balance": 0,
+      "createdAt": "2025-05-02T22:37:42.556Z",
+      "modifiedAt": "2025-05-02T22:37:42.556Z"
+    },
+    {
+      "id": "bJ2IXaVNr",
+      "uuid": "dbb1b0c0-ed94-42c5-97ee-a1c18da55846",
+      "firstName": "John",
+      "lastName": "Doe",
+      "username": "john00",
+      "password": "$2a$10$td8eNfBdnvMxAAIfPUHKWe/2nGcU3lBdJCBrTlYOnQYGu2sXBunRK",
+      "balance": 0,
+      "createdAt": "2025-05-02T22:38:03.300Z",
+      "modifiedAt": "2025-05-02T22:38:03.300Z"
     }
   ],
   "contacts": [
