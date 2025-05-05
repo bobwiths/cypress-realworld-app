@@ -14,5 +14,13 @@
         "password": "myst3ry",
         "confirmPassword": "myst3ry",  
         "wrongPassword": "t3st"
+    },
+    "fillTransactionSuccess": {
+        "amount": "500",
+        "note": "test"
+    },
+    "fillTransactionFail": {
+        "amount": "2000",
+        "note": "test"
     }
 }
