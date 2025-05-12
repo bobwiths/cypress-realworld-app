@@ -16,9 +16,15 @@ describe('Transaction History Empty Test', () => {
         createAccountPage.fillSignUpPage(userData.newUser.firstName, userData.newUser.lastName, userData.newUser.username, userData.newUser.password, userData.newUser.confirmPassword,)
         loginPage.accessLoginPage()
     })   
-    it('Check Transaction History - Success', () => {
+    it('Check Transaction History New Account - Success', () => {
         loginPage.accessLoginPage()
         loginPage.loginWithAnyUser(userData.newUser.username, userData.newUser.password)
+        homePage.checkHomePage()
+        transactionHistoryPage.accessTransactionHistoryEmpty()
+    })
+    it.only('Check Transaction History Account - Success', () => {
+        loginPage.accessLoginPage()
+        loginPage.loginWithAnyUser(userData.userSuccess.username, userData.userSuccess.password)
         homePage.checkHomePage()
         transactionHistoryPage.accessTransactionHistory()
     })

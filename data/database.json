@@ -74,50 +74,6 @@
       "balance": 49474,
       "createdAt": "2023-12-07T04:39:38.383Z",
       "modifiedAt": "2024-03-07T00:07:36.510Z"
-    },
-    {
-      "id": "W_N1PqMey",
-      "uuid": "ff0ba75a-9daa-49ff-9ca0-b9182aed9901",
-      "firstName": "John",
-      "lastName": "Doe",
-      "username": "john00",
-      "password": "$2a$10$DOwQMBdUcUP1wZAfY/94OOh0P0NV5hBenmd.zhuJYv.A3PmkV2jNW",
-      "balance": 0,
-      "createdAt": "2025-05-12T17:33:59.394Z",
-      "modifiedAt": "2025-05-12T17:33:59.394Z"
-    },
-    {
-      "id": "0FpdEQ94x",
-      "uuid": "57f49039-e24f-4ede-b1bc-74101d199c64",
-      "firstName": "John",
-      "lastName": "Doe",
-      "username": "john00",
-      "password": "$2a$10$AS.glxZknSUb4B1fI53xv.0wV3uzrR/r7bY8cZu/BWYS508A1vc8q",
-      "balance": 0,
-      "createdAt": "2025-05-12T17:53:03.231Z",
-      "modifiedAt": "2025-05-12T17:53:03.231Z"
-    },
-    {
-      "id": "jj9gZW2iq_",
-      "uuid": "1fb6f2a3-dfd9-468b-9833-0637421f11e2",
-      "firstName": "John",
-      "lastName": "Doe",
-      "username": "john00",
-      "password": "$2a$10$WTO/i0I6KV9J39IQfvGPnOUSvOC0JC8JaNN24ASkjw7Lupz0Wk1Xu",
-      "balance": 0,
-      "createdAt": "2025-05-12T17:53:03.649Z",
-      "modifiedAt": "2025-05-12T17:53:03.649Z"
-    },
-    {
-      "id": "lYsj52xU7",
-      "uuid": "8f16fad7-67cb-4a98-9f5f-6671ce5ca4c1",
-      "firstName": "John",
-      "lastName": "Doe",
-      "username": "john00",
-      "password": "$2a$10$ZeXEDRsSCM5vMn2Hef3wL.c7KcJXWqc1c9qt9iNa2LMQlpP3gI9mq",
-      "balance": 0,
-      "createdAt": "2025-05-12T17:54:04.286Z",
-      "modifiedAt": "2025-05-12T17:54:04.286Z"
     }
   ],
   "contacts": [
@@ -297,17 +253,6 @@
       "isDeleted": false,
       "createdAt": "2024-01-26T14:01:01.815Z",
       "modifiedAt": "2024-03-07T08:44:31.174Z"
-    },
-    {
-      "id": "UakEem63j",
-      "uuid": "ffb6afd8-36d8-40d2-be97-fbdf710703c7",
-      "userId": "W_N1PqMey",
-      "bankName": "RealBank",
-      "accountNumber": "123123123",
-      "routingNumber": "123123123",
-      "isDeleted": false,
-      "createdAt": "2025-05-12T17:35:46.023Z",
-      "modifiedAt": "2025-05-12T17:35:46.023Z"
     }
   ],
   "transactions": [
